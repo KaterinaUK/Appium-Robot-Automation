@@ -1,11 +1,11 @@
-# Instagram_Appium_Automation
+# Instagram_Appium_Automation 
 # Mobile testing 
-## Python, Selenium, Robot Framework and Appium (Instagram Example)
+## Python, Selenium, Robot Framework :robot: and Appium (Instagram Example):iphone:
 
 This is example how to run appium on local machine to setup Instagram application for Android.
 Example is based on BDD Test Scenarios
 
-#### How to prepare the environment:
+#### How to prepare the environment: :woman_scientist:
 1. Install and configure Android studio
 2. Install python   
 3. Install Node JS
@@ -18,9 +18,9 @@ Example is based on BDD Test Scenarios
 10. In console type: adb devices
 11. Install Vysor to see your device on the screen and debug it
 
-Create a virtual device with android studio
+Create a virtual device with android studio :woman_technologist:
 Uiautomatorviewer or Appium inspector will be used to inspect the elements in the Instagram interface
 
 
-#### How to run:
+#### How to run: :running_man:
 To run the robot test you need to go to the project directory called instagram and type: robot -d Output Tests
